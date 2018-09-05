@@ -1,8 +1,8 @@
 # R Data Package: World Contraceptive Usage 2018
-R data package containting United Nations Population Division World Contraceptive Use 2018 dataset. [Original Data Source](http://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2018.shtml)
+R data package containting the [United Nations Population Division World Contraceptive Use 2018 dataset](http://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2018.shtml)
 
 
-For convenience, country region, sub region, and intermediate region names were added to the dataset. [Region and sub-region names source](https://unstats.un.org/unsd/methodology/m49/)
+For convenience, country region, sub region, and intermediate region names were added to the dataset form the [UN Standard country or area codes for statistical use dataset](https://unstats.un.org/unsd/methodology/m49/)
 
 ## Install
 
