@@ -1,0 +1,11 @@
+Package: unpdcontraceptiveuse2018
+Type: Package
+Title: United Nationals World Contraceptive Use 2018
+Version: 1.0
+Author: Herb Susmann
+Maintainer: Herb Susmann <herbps10@gmail.com>
+Description: Data package containing UN Population Division World Contraceptive Use 2018 dataset
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
